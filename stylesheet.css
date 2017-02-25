@@ -76,7 +76,7 @@ ul li {
 #experiences-box {
     font-family: 'Gloria Hallelujah', cursive;
     font-size: 0.9em;
-    background-color: rgba(18, 60, 90, 0.5);
+    background-color: white;
     display: inline-flex;
     flex-direction: column;
     margin: 10px 20px 10px 20px;
@@ -113,7 +113,7 @@ ul li {
 #studies-box {
     font-family: 'Gloria Hallelujah', cursive;
     font-size: 0.9em;
-    background-color: rgba(18, 60, 90, 0.5);
+    background-color: white;
     display: inline-flex;
     flex-direction: column;
     margin: 10px 20px 10px 20px;
